@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mini-Pingu</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://mini-pingu@github.io>Mini-Pingu</a></h1>
 <h3 align="center">Dedicated to be a Javascript Full-Stack engineer. :)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mini-pingu&label=Profile%20views&color=0e75b6&style=flat" alt="mini-pingu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mini-pingu&label=*******Profile%20views&color=0e75b6&style=plastic" alt="mini-pingu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mini-pingu" alt="mini-pingu" /></a> </p>
 
