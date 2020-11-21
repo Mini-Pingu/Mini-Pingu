@@ -1,28 +1,30 @@
 <h1 align="center">Hi 👋, I'm <a href="https://mini-pingu.github.io/">Mini-Pingu</a></h1>
 <h3 align="center">Dedicated to be a Javascript Full-Stack engineer. :)</h3>
 
-<hr />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mini-pingu&label=Profile%20views&color=0e75b6&style=plastic" alt="mini-pingu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mini-pingu" alt="mini-pingu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_mini_pingu_" target="blank"><img src="https://img.shields.io/twitter/follow/_mini_pingu_?logo=twitter&style=for-the-badge" alt="_mini_pingu_" /></a> </p>
 
-- 🔭 I’m currently working on **React.js**
+<hr />
 
-- 🌱 I’m currently learning **Javascript, React.js, Node.js**
+Hi, I am Mini-Pingu, a Javascript Full Stack Developer @[insight](https://www.insightmacau.com). I am a Former DevOps @[newtranx](http://www.newtranx.com/). Beside's programming, I enjoy reading and movies.
 
-- 👯 I’m looking to collaborate on **MERN stack**
 
-- 🤝 I’m looking for help with **Javascript**
+- 🔭 I’m currently working on: **React.js** projects.
 
-- 📝 I regulary write articles on [mini-pingu@github.io](mini-pingu@github.io)
+- 🌱 I’m currently learning: **Javascript, React.js, Node.js**
 
-- 💬 Ask me about **Javascript**
+- 🤝 I’m looking for help with: **Javascript** and **React.js**
 
-- 📫 How to reach me **xxxdavidaksnesxxx@gmail.com**
+- 📝 I regulary write articles on: [mini-pingu.github.io](https://mini-pingu.github.io/)
 
-- ⚡ Fun fact **I am from Macau. :)**
+- 💬 Ask me about **Javascript**, ***I will try my best to response...***
+
+- 📫 How to reach me E-mail: **xxxdavidaksnesxxx-at-gmail-dot-com** or Twitter:**[_mini_pingu_](https://twitter.com/_mini_pingu_)**
+
+- ⚡ Fun fact: **I am from Macau :macau:**, also **I can speak Chinese :cn:.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
