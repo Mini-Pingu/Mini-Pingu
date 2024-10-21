@@ -11,7 +11,7 @@
 <hr />
 
 <p>
-  Hi, I’m Mini-Pingu, a passionate full-stack engineer specializing in TypeScript, Node.js, and React. I enjoy building interactive web applications and contributing to the open-source community. Constantly exploring new technologies and challenging myself to grow as a developer.
+Hi, I’m Mini-Pingu, a passionate full-stack engineer with a focus on TypeScript, Node.js, and React. I specialize in building interactive web applications, developing scalable backend systems, and exploring data analysis and artificial intelligence using tools like Python, TensorFlow, and MATLAB. Constantly seeking to expand my knowledge, I enjoy working on innovative projects, contributing to the open-source community, and embracing challenges to grow as a developer
 </p>
 
 <hr />
@@ -41,8 +41,11 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" /> 
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" /> 
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
-
+<p align="center"> 
+<img src="https://img.shields.io/badge/ChatGPT-1A73E8?style=flat&logo=openai&logoColor=white" alt="ChatGPT" />
+</p>
 
 <hr />
 
